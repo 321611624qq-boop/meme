@@ -1,1 +1,11 @@
-
+{
+  "name": "0xdead",
+  "description": "0x00000000001000000000000000dead",
+  "image": "https://raw.githubusercontent.com/321611624qq-boop/meme/main/f95963a08f6eeedfac72c5fb4b473822.png",
+  "attributes": [
+    {
+      "trait_type": "Address",
+      "value": "0x00000000001000000000000000dead"
+    }
+  ]
+}
